@@ -7,7 +7,7 @@
 #include "esp_http_server.h"
 #include "driver/uart.h"
 
-#define UART_NUM UART_NUM_2
+#define UART_NUM UART_NUM_1
 #define TXD_PIN 17
 #define RXD_PIN 16
 
